@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ee0b3d74208b3547a84573a30c5c8c5, type: 3}
+  m_Name: WorldSetting
+  m_EditorClassIdentifier: 
+  worldSize: {x: 16, y: 16}
+  tileSize: 2
+  environmentPercent: 30
+  tiles:
+  - {fileID: 8155394241267378489, guid: 6245564ed6612b546898de6b62656bb8, type: 3}
+  environment:
+  - {fileID: 8235217625132357163, guid: b19d626b833a18248b36171d3c059865, type: 3}
+  - {fileID: 8235217625132357163, guid: cf057ba89f7742b42be4c41a90d4547d, type: 3}
+  - {fileID: 8235217625132357163, guid: c2bcc80916de4b840a491c3f7106de40, type: 3}
+  - {fileID: 8235217625132357163, guid: 0cad913b1568042438fc78b5363df702, type: 3}
